@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 441E-624A
+
+ Directory of C:\Users\srira\OneDrive\Documents\GitTest
+
+02/06/2021  02:09 PM    <DIR>          .
+02/06/2021  02:09 PM    <DIR>          ..
+02/06/2021  02:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,754,324,480 bytes free
